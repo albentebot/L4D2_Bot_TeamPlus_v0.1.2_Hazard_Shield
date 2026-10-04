@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "addonSteamAppID" "550"
+    "addonversion" "0.1.2"
+    "addontitle" "Bot TeamPlus MOD (Standalone VScript)"
+    "addonauthor" "Codex"
+    "addonDescription" "Co-op survivor bot combat, rescue, supplies, throwables and gas delivery. Experimental standalone VScript edition. Host-side. Do not combine with another bot AI."
+}

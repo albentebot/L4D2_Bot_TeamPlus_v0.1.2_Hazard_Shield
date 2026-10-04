@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "addonSteamAppID" "550"
+    "addonversion" "0.1.0"
+    "addontitle" "Survivor Hazard Shield (Acid and Fire)"
+    "addonauthor" "Codex"
+    "addonDescription" "Host-side coop/realism survivor acid and fire immunity. Humans and bots; retains explosion and infected damage. Experimental VScript."
+}
